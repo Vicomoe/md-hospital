@@ -1,0 +1,21 @@
+cd md-hospital
+cat > .gitignore << 'EOF'
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.swp
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Backups
+*_backup.lua
+*_old.lua
+*.bak
+
+# Archivos temporales
+*.tmp
+*.log
+EOF
