@@ -4,6 +4,18 @@
 
 ![Version](https://img.shields.io/badge/version-3.0.1-blue)
 ![Status](https://img.shields.io/badge/status-production-green)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+> 📑 **[VER SUMARIO COMPLETO](./SUMARIO.md)** ← Tabla de contenidos
+
+## 🚀 Inicio Rápido
+
+```bash
+git clone https://github.com/Vicomoe/md-hospital.git
+cp -r md-hospital resources/
+# Añade a server.cfg: ensure md-hospital
+# Reinicia el servidor
+
 
 ## 📋 Características
 
